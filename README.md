@@ -1,5 +1,5 @@
 # start-django-project
-
+```sh
 virtualenv venv1
 
 cd venv1
@@ -10,4 +10,5 @@ pip install django
 
 django-admin startproject project
 
-Rename project: ProjectConainer
+Rename project: ProjectContainer
+```
